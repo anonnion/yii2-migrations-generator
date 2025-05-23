@@ -2,7 +2,7 @@
 
 A powerful Node.js script that converts SQL schema files into Yii2-compatible database migrations. Perfect for converting existing database structures or SQL dumps into Yii2 migration files.
 
-![GitHub](https://img.shields.io/badge/license-MIT-blue)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Node Version](https://img.shields.io/badge/node-%3E%3D14.x-green)
 
 ## Features ✨
